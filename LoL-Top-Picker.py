@@ -7,4 +7,4 @@ from random import choice
 #print ("You should play", answerjg, "in the jungle")
 
 answer = choice([ 'Fiora', 'Jax', 'Renekton', 'Quinn', 'Sett', 'Riven', 'Kayle', 'Rengar', 'Volibear', 'Topturne', 'Vayne', 'Akshan' ])
-print ("You should play" answer, "in top lane, you shitter")
+print ("You should play" answer, "in top lane!")
